@@ -1,7 +1,7 @@
 # Proyecto final de Inteligencia Artificial
 
 ## DETECTOR DE PUNTOS FACIALES: ESTIMACIÓN DE LA POSICIÓN DE LOS OJOS
-![alt text](https://github.com/laemD8/IA/blob/main/Images/done.png)
+![alt text](https://github.com/laemD8/IA/blob/main/Images/new.png)
 
 _Integrantes: Laura Alejandra Estupiñan Martínez, Karen Andrea Beltrán Silva_
 
