@@ -1,6 +1,6 @@
-# IA
+# Proyecto final de Inteligencia Artificial
 
-DETECTOR DE PUNTOS FACIALES, ESTIMACIÓN DE LA POSICIÓN DE LOS OJOS
+## DETECTOR DE PUNTOS FACIALES: ESTIMACIÓN DE LA POSICIÓN DE LOS OJOS
 
 Integrantes: Laura Alejandra Estupiñan Martínez, Karen Andrea Beltrán Silva
 
