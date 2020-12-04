@@ -3,7 +3,8 @@
 ## DETECTOR DE PUNTOS FACIALES: ESTIMACIÓN DE LA POSICIÓN DE LOS OJOS
 
 _Integrantes: Laura Alejandra Estupiñan Martínez, Karen Andrea Beltrán Silva_
-_#KayLau4ever_
+
+_#KayLau4ever🔧_
 
 Descripción: En el presente documento describe el procedimiento realizado para implementar las de redes neuronales convolucionales propuestas en 
 "Learning Deep Representation for Face Alignment with Auxiliary Attributes" y "Landmark detection", y posteriormente entrenarlas con la base de datos 
