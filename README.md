@@ -4,7 +4,7 @@
 
 _Integrantes: Laura Alejandra Estupiñan Martínez, Karen Andrea Beltrán Silva_
 
-_#KayLau4ever🛠️_
+_#Ka&Lau4ever🛠️_
 
 **Descripción:** En el presente documento describe el procedimiento realizado para implementar las de redes neuronales convolucionales propuestas en 
 _"Learning Deep Representation for Face Alignment with Auxiliary Attributes"_ y _"Landmark detection"_, y posteriormente entrenarlas con la base de datos 
@@ -14,4 +14,6 @@ rendimiento a partir de la detección de atributos faciales, y así concluir el 
 
 
 Los modelos entrenados están en el siguiente link:
+```
 https://livejaverianaedu-my.sharepoint.com/:f:/g/personal/karenbeltran_javeriana_edu_co/EqCQWlptRIdBvR5UfKBs20EBeNZEr6PjcaavC-lkjDLRaQ?e=g7jF1A
+```
