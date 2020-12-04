@@ -2,6 +2,9 @@
 
 ## DETECTOR DE PUNTOS FACIALES: ESTIMACIÓN DE LA POSICIÓN DE LOS OJOS
 
+Inline-style: 
+![alt text](https://github.com/laemD8/IA/one.png)
+
 _Integrantes: Laura Alejandra Estupiñan Martínez, Karen Andrea Beltrán Silva_
 
 _#Ka&Lau4ever🛠️_
