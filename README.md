@@ -13,14 +13,6 @@ _"Facial Landmark Detection by Deep Multi-task Learning"_ de 4151 fotos con sus 
 rendimiento a partir de la detección de atributos faciales, y así concluir el modelo de mayor capacidad en términos de precisión.
 
 1. La documentación en detalle del procedimiento, resultado y conclusiones se encuentra en el siguiente [enlace](https://github.com/laemD8/IA/blob/main/Documento/InformeFinal_IA.pdf)
-2. Baila
+2. [Click](http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html) para acceder al vínculo de descarga de la base de datos empleada para este proyecto.
+3. ¡Nuestros modelos entrenados están en la nube! [más información](https://livejaverianaedu-my.sharepoint.com/:f:/g/personal/karenbeltran_javeriana_edu_co/EqCQWlptRIdBvR5UfKBs20EBeNZEr6PjcaavC-lkjDLRaQ?e=g7jF1A)
 
-Los modelos entrenados están en el siguiente link:
-```
-https://livejaverianaedu-my.sharepoint.com/:f:/g/personal/karenbeltran_javeriana_edu_co/EqCQWlptRIdBvR5UfKBs20EBeNZEr6PjcaavC-lkjDLRaQ?e=g7jF1A
-```
-
-La base de datos se descargó de esta fuente:
-```
-http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html
-```
