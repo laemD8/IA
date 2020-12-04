@@ -12,7 +12,7 @@ _"Learning Deep Representation for Face Alignment with Auxiliary Attributes"_ y 
 _"Facial Landmark Detection by Deep Multi-task Learning"_ de 4151 fotos con sus respectivas marcas de referencia. Esto con la finalidad de evaluar su 
 rendimiento a partir de la detección de atributos faciales, y así concluir el modelo de mayor capacidad en términos de precisión.
 
-1. La documentación en detalle del procedimiento, resultado y conclusiones se encuentra en la carpeta _documento_ de este repositorio [I'm an inline-style link](https://github.com/laemD8/IA/blob/main/Documento/InformeFinal_IA.pdf)
+1. La documentación en detalle del procedimiento, resultado y conclusiones se encuentra en el siguiente [enlace](https://github.com/laemD8/IA/blob/main/Documento/InformeFinal_IA.pdf)
 2. Baila
 
 Los modelos entrenados están en el siguiente link:
