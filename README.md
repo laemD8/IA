@@ -17,3 +17,8 @@ Los modelos entrenados están en el siguiente link:
 ```
 https://livejaverianaedu-my.sharepoint.com/:f:/g/personal/karenbeltran_javeriana_edu_co/EqCQWlptRIdBvR5UfKBs20EBeNZEr6PjcaavC-lkjDLRaQ?e=g7jF1A
 ```
+
+La base de datos se descargó de esta fuente:
+```
+http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html
+```
